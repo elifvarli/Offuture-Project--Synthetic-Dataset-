@@ -10,7 +10,7 @@ The project was divided into two main phases:
  > Data Preparation and Quality Check:
 The sales data provided by Offuture was loaded into hosted SQL tables.
 Data quality checks were performed to ensure accuracy and completeness.
-Data was cleaned and prepared for analysis.
+Data was cleaned and prepared for analysis.  
  > Visualization and Storytelling:
 The cleaned data was visualized to explore trends and patterns in Offuture's sales performance.
 Key points and insights were identified and presented in a logical manner to tell the story of Offuture's performance from 2011 to 2015.
