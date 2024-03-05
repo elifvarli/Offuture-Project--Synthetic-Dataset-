@@ -17,10 +17,10 @@ Key points and insights were identified and presented in a logical manner to tel
 
 ## Files in Repository
 
-Offuture 2011-2014.csv: Containing the raw sales data file provided by Offuture.
-quality_control.sql, table_creation.sql: Containing SQL scripts used for data loading and quality checks.
-quality_control_form.pdf: Containing a brief of data quality checks.
-Presentation.pdf: Directory containing the presentation slides summarizing the findings of the project.
+Offuture 2011-2014.csv: Containing the raw sales data file provided by Offuture.  
+quality_control.sql, table_creation.sql: Containing SQL scripts used for data loading and quality checks.  
+quality_control_form.pdf: Containing a brief of data quality checks.  
+Presentation.pdf: Directory containing the presentation slides summarizing the findings of the project.  
 README.md: This file providing an overview of the project and instructions for running the code.
 
 ## Running the Code
